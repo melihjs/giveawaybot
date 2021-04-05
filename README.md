@@ -12,7 +12,7 @@
 
 ## License:
 
-   Made  by **Archéx Development**
+   Made  by [**Archéx Development**](https://discord.gg/MgmHyg7Gfu)
 
    All kinds of commands and things are ours. In case of theft, the necessary actions will be initiated.
   
