@@ -12,7 +12,7 @@
 
 ## License:
 
-   Made  by [**Ghost Development**](https://discord.gg/SGdy3jtMCB)
+   Made  by [**Ghost Development**](https://discord.gg/ya9Gw8hBb2)
 
    All kinds of commands and things are ours. In case of theft, the necessary actions will be initiated.
   
